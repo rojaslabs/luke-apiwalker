@@ -1,7 +1,7 @@
 {
   "name": "luke_apiwalker",
   "version": "0.1.0",
-  "homepage": "https://rojaslabs.github.io/luke_APIwalwer/",
+  "homepage": "https://rojaslabs.github.io/luke_APIwalker/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
