@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/luke_APIwalwer/static/css/main.1a1462cd.css",
+    "main.js": "/luke_APIwalwer/static/js/main.e0d36a93.js",
+    "static/js/787.067952b3.chunk.js": "/luke_APIwalwer/static/js/787.067952b3.chunk.js",
+    "static/media/notFound.jpeg": "/luke_APIwalwer/static/media/notFound.568f33b3dcbbd0105ab0.jpeg",
+    "index.html": "/luke_APIwalwer/index.html",
+    "main.1a1462cd.css.map": "/luke_APIwalwer/static/css/main.1a1462cd.css.map",
+    "main.e0d36a93.js.map": "/luke_APIwalwer/static/js/main.e0d36a93.js.map",
+    "787.067952b3.chunk.js.map": "/luke_APIwalwer/static/js/787.067952b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1462cd.css",
+    "static/js/main.e0d36a93.js"
+  ]
+}
