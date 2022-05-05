@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/luke_APIwalker/static/css/main.1a1462cd.css",
-    "main.js": "/luke_APIwalker/static/js/main.036e7924.js",
-    "static/js/787.067952b3.chunk.js": "/luke_APIwalker/static/js/787.067952b3.chunk.js",
-    "static/media/notFound.jpeg": "/luke_APIwalker/static/media/notFound.568f33b3dcbbd0105ab0.jpeg",
-    "index.html": "/luke_APIwalker/index.html",
-    "main.1a1462cd.css.map": "/luke_APIwalker/static/css/main.1a1462cd.css.map",
-    "main.036e7924.js.map": "/luke_APIwalker/static/js/main.036e7924.js.map",
-    "787.067952b3.chunk.js.map": "/luke_APIwalker/static/js/787.067952b3.chunk.js.map"
+    "main.css": "/luke-apiwalker/static/css/main.1a1462cd.css",
+    "main.js": "/luke-apiwalker/static/js/main.6dd8252f.js",
+    "static/js/787.067952b3.chunk.js": "/luke-apiwalker/static/js/787.067952b3.chunk.js",
+    "static/media/notFound.jpeg": "/luke-apiwalker/static/media/notFound.568f33b3dcbbd0105ab0.jpeg",
+    "index.html": "/luke-apiwalker/index.html",
+    "main.1a1462cd.css.map": "/luke-apiwalker/static/css/main.1a1462cd.css.map",
+    "main.6dd8252f.js.map": "/luke-apiwalker/static/js/main.6dd8252f.js.map",
+    "787.067952b3.chunk.js.map": "/luke-apiwalker/static/js/787.067952b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a1462cd.css",
-    "static/js/main.036e7924.js"
+    "static/js/main.6dd8252f.js"
   ]
 }
