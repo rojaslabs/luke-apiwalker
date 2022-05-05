@@ -1,0 +1,16 @@
+body {
+  background-color: #272B31;
+  margin: 50px 20px;
+}
+
+h1 {
+  color: #FFE300
+}
+
+.App {
+  text-align: center;
+}
+
+.noEncontrado {
+  color: white;
+}
